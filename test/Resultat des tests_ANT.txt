@@ -1,0 +1,42 @@
+Resultat{cout=7299.268534155313, temps=664.0, parametres='5 10 0.3 0.7 1 0.7'} berlin52.tsp
+Resultat{cout=117862.25075135667, temps=12031.0, parametres='5 10 0.3 0.7 1 0.7'} bier127.tsp
+Resultat{cout=6728.3518588013385, temps=9718.0, parametres='5 10 0.3 0.7 1 0.7'} ch130.tsp
+Resultat{cout=7030.6689019323685, temps=15829.0, parametres='5 10 0.3 0.7 1 0.7'} ch150.tsp
+Resultat{cout=12685.693356557276, temps=42987.0, parametres='5 10 0.3 0.7 1 0.7'} d198.tsp
+Resultat{cout=479.43399190345286, temps=626.0, parametres='5 10 0.3 0.7 1 0.7'} eil51.tsp
+Resultat{cout=574.7206813082805, temps=2126.0, parametres='5 10 0.3 0.7 1 0.7'} eil76.tsp
+Resultat{cout=12952.07849727689, temps=4953.0, parametres='5 10 0.3 0.7 1 0.7'} kroA100.tsp
+Resultat{cout=30495.66410440627, temps=20094.0, parametres='5 10 0.3 0.7 1 0.7'} kroA150.tsp
+Resultat{cout=33971.387636762745, temps=44305.0, parametres='5 10 0.3 0.7 1 0.7'} kroA200.tsp
+Resultat{cout=24002.723881114107, temps=4376.0, parametres='5 10 0.3 0.7 1 0.7'} kroB100.tsp
+Resultat{cout=30926.244764028903, temps=16300.0, parametres='5 10 0.3 0.7 1 0.7'} kroB150.tsp
+Resultat{cout=34817.84133576718, temps=39233.0, parametres='5 10 0.3 0.7 1 0.7'} kroB200.tsp
+Resultat{cout=22673.803806150303, temps=4355.0, parametres='5 10 0.3 0.7 1 0.7'} kroC100.tsp
+Resultat{cout=22673.803806150303, temps=4263.0, parametres='5 10 0.3 0.7 1 0.7'} kroD100.tsp
+Resultat{cout=22673.803806150303, temps=4314.0, parametres='5 10 0.3 0.7 1 0.7'} kroE100.tsp
+Resultat{cout=15942.431628627075, temps=5126.0, parametres='5 10 0.3 0.7 1 0.7'} lin105.tsp
+Resultat{cout=16895.406251097967, temps=5335.0, parametres='5 10 0.3 0.7 1 0.7'} pr107.tsp
+Resultat{cout=25627.406251097967, temps=9200.0, parametres='5 10 0.3 0.7 1 0.7'} pr124.tsp
+Resultat{cout=37004.21175599359, temps=11921.0, parametres='5 10 0.3 0.7 1 0.7'} pr136.tsp
+Resultat{cout=39587.02879436986, temps=13507.0, parametres='5 10 0.3 0.7 1 0.7'} pr144.tsp
+Resultat{cout=58250.16067410874, temps=104695.0, parametres='5 10 0.3 0.7 1 0.7'} pr226.tsp
+Resultat{cout=123389.07045571336, temps=1924.0, parametres='5 10 0.3 0.7 1 0.7'} pr76.tsp
+Resultat{cout=2494.7973323113642, temps=44143.0, parametres='5 10 0.3 0.7 1 0.7'} rat195.tsp
+Resultat{cout=1318.937311585993, temps=4276.0, parametres='5 10 0.3 0.7 1 0.7'} rat99.tsp
+Resultat{cout=1554.130286257065, temps=4313.0, parametres='5 10 0.3 0.7 1 0.7'}rd100.tsp
+
+Resultat{cout=2874.7326144661624, temps=94005.0, parametres='5 10 0.3 0.7 1 0.7'} a280.tsp
+Resultat{cout=13463.007759406612, temps=612896.0, parametres='5 10 0.3 0.7 1 0.7'} d493.tsp
+Resultat{cout=14103.430019876263, temps=311769.0, parametres='5 10 0.3 0.7 1 0.7'} fl417.tsp
+Resultat{cout=47714.740551884235, temps=138938.0, parametres='5 10 0.3 0.7 1 0.7'} lin318.tsp
+Resultat{cout=58135.158964114096, temps=404447.0, parametres='5 10 0.3 0.7 1 0.7'} pcb442.tsp
+Resultat{cout=69982.86231338633, temps=4897.0, parametres='4 4 0.3 0.7 1 0.7'} pr152.tsp
+Resultat{cout=48764.17499350961, temps=30648.0, parametres='4 4 0.3 0.7 1 0.7'} pr264.tsp
+Resultat{cout=55272.98621477921, temps=37851.0, parametres='4 4 0.3 0.7 1 0.7'} pr299.tsp
+Resultat{cout=18080.26859074831, temps=106072.0, parametres='4 4 0.3 0.7 1 0.7'} rd400.tsp
+
+Resultat{cout=58408.14124821412, temps=396087.0, parametres='4 4 0.3 0.7 1 0.7'} d657.tsp
+Resultat{cout=37651.425955499, temps=386723.0, parametres='4 4 0.3 0.7 1 0.7'} p654.tsp
+Resultat{cout=7844.737809700662, temps=262067.0, parametres='4 4 0.3 0.7 1 0.7'} rat575.tsp
+
+ANTS parametres='nb_Ant=5 nb_iter=10 alpha=0.3 beta=0.7 Q=1 P=0.7'
